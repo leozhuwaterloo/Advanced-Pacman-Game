@@ -1,5 +1,7 @@
 # Advanced-Pacman-Game
 Advanced Pacman Game
+For More Information Please Visit 
+http://www.leozhu.org/
 
 ![Alt text](/show-case/pacman-1.png?raw=true "Optional Title")
 ![Alt text](/show-case/pacman-2.png?raw=true "Optional Title")
