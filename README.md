@@ -11,3 +11,6 @@ Advanced Pacman Game
 ![Alt text](/show-case/pacman-8.png?raw=true "Optional Title")
 ![Alt text](/show-case/pacman-9.png?raw=true "Optional Title")
 ![Alt text](/show-case/pacman-10.png?raw=true "Optional Title")
+![Alt text](/show-case/pacman-11.png?raw=true "Optional Title")
+![Alt text](/show-case/pacman-12.png?raw=true "Optional Title")
+![Alt text](/show-case/pacman-13.png?raw=true "Optional Title")
